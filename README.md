@@ -1,0 +1,2 @@
+# Battle for Hot Feed
+An object show starring websim's most famous faces: One (Numberblocks Playground), XP (Windows XP Simulator), Cursor (Stickman VS. Cursor), Duck (explained by ducks) and Credit ♦, hosted by the Prompt Box. Five contestants, one challenge, one elimination to the Credit Graveyard. ~2 min, sound on! Every frame is drawn live on a canvas; voices, sfx and music are ElevenLabs. Comment what happens in episode 2.
