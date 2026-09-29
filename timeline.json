@@ -1,0 +1,421 @@
+{
+"duration": 118.187,
+"fps": 30,
+"events": [
+{
+"t": "sfx",
+"id": "title",
+"start": 1.0,
+"dur": 4.48,
+"name": "sting"
+},
+{
+"t": "line",
+"id": "welcome",
+"start": 5.108,
+"dur": 6.226,
+"who": "HOST",
+"text": "Welcome to Battle for Hot Feed! Five of websim's biggest stars, fighting for the top of the Hot feed!",
+"env": "0247664125433212321077655321135446662010115533232221100000000112965444332211233236774322225544433321763563222313876643221222221011476443321243330021775210010124311144322676101113332222212"
+},
+{
+"t": "line",
+"id": "meet",
+"start": 11.454,
+"dur": 1.321,
+"who": "HOST",
+"text": "Let's meet our contestants!",
+"env": "0247622314557489712663387432255422222110"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 12.895,
+"dur": 1.0,
+"name": "pop"
+},
+{
+"t": "line",
+"id": "intro_one",
+"start": 12.895,
+"dur": 4.42,
+"who": "ONE",
+"text": "Hi! I'm One! Two hundred and forty thousand people played with me!",
+"env": "0114976655343100006876555567875433321000000003246621236563246741322455111157742564001576653223441021542016651110687541365002544322210"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 17.435,
+"dur": 1.0,
+"name": "pop"
+},
+{
+"t": "line",
+"id": "intro_xp",
+"start": 17.435,
+"dur": 4.453,
+"who": "XP",
+"text": "Two hundred thousand views. And still nobody has installed Service Pack Two.",
+"env": "24545444674225510017775411232115544321112223321000000000663111220365554224754164133337622442112206755411223963363210288632012353311110"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 22.009,
+"dur": 1.0,
+"name": "pop"
+},
+{
+"t": "line",
+"id": "intro_cursor",
+"start": 22.009,
+"dur": 4.532,
+"who": "CURSOR",
+"text": "Name's Cursor. I drag stickmen around for a living. Don't get comfortable.",
+"env": "1000005778972421335432222110000000000145553357655553123314752155544334333321113332233311111000000000047877425521123321111211111100000000"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 26.661,
+"dur": 1.0,
+"name": "pop"
+},
+{
+"t": "line",
+"id": "intro_duck",
+"start": 26.661,
+"dur": 4.001,
+"who": "DUCK",
+"text": "Good evening. I am a duck. And I shall be explaining things.",
+"env": "0499556431123211110000000004777644321344541343300010000000000355321676443322223215530233104544333222102332222211211000012"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 30.782,
+"dur": 1.2,
+"name": "chaching"
+},
+{
+"t": "line",
+"id": "intro_credit",
+"start": 30.782,
+"dur": 4.32,
+"who": "CREDIT",
+"text": "And I'm Credit! Everybody wants me, but nobody gets to keep me!",
+"env": "0005413211122221542267776452113997765621000000002677811542366422122333212233432211000003311222344521431210221011011011133100111110"
+},
+{
+"t": "sfx",
+"id": "to_challenge",
+"start": 35.522,
+"dur": 1.0,
+"name": "whoosh"
+},
+{
+"t": "line",
+"id": "challenge",
+"start": 36.372,
+"dur": 5.775,
+"who": "HOST",
+"text": "Today's challenge: make the most liked project in thirty seconds. Your time starts... now!",
+"env": "017579865211334332221122100000000013542105544466642210123565311210012566521222110010012221134434322233201111011000000000122022234333222214554310111100000000013343221110000000"
+},
+{
+"t": "sfx",
+"id": "go",
+"start": 42.267,
+"dur": 1.48,
+"name": "horn"
+},
+{
+"t": "sfx",
+"id": "stack",
+"start": 43.525,
+"dur": 2.0,
+"name": "blocks"
+},
+{
+"t": "line",
+"id": "more_blocks",
+"start": 43.525,
+"dur": 4.234,
+"who": "ONE",
+"text": "Make it more blocks! More blocks! MORE BLOCKS!",
+"env": "04655315401577786631135777764200111110000000245677766511134788887641001111110000000233467778787766666210356889988887410011111111"
+},
+{
+"t": "line",
+"id": "nice_blocks",
+"start": 47.88,
+"dur": 1.772,
+"who": "CURSOR",
+"text": "Ooh. Nice blocks.",
+"env": "078886322211000000004688998544213544443312333221110012"
+},
+{
+"t": "sfx",
+"id": "steal",
+"start": 49.971,
+"dur": 1.48,
+"name": "drag"
+},
+{
+"t": "line",
+"id": "mine",
+"start": 49.971,
+"dur": 1.17,
+"who": "CURSOR",
+"text": "Mine now.",
+"env": "045668889887776555667776555554322100"
+},
+{
+"t": "line",
+"id": "hey",
+"start": 51.262,
+"dur": 2.567,
+"who": "ONE",
+"text": "Hey! You can't remix me without credit!",
+"env": "015777654321000036611215885136777777402223443333201550298762001148844543200110"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 53.948,
+"dur": 1.2,
+"name": "chaching"
+},
+{
+"t": "line",
+"id": "said_credit",
+"start": 53.948,
+"dur": 2.106,
+"who": "CREDIT",
+"text": "Did somebody say CREDIT?!",
+"env": "0112453121227655377466422115777777664210022233222698888976300222"
+},
+{
+"t": "line",
+"id": "flattery",
+"start": 56.175,
+"dur": 2.825,
+"who": "DUCK",
+"text": "Technically, every remix is a form of flattery.",
+"env": "0034830025312243331000000002897322564234433332001222324311144443322311135411232222210"
+},
+{
+"t": "sfx",
+"id": "xp_loading",
+"start": 59.119,
+"dur": 3.0,
+"name": "loading"
+},
+{
+"t": "line",
+"id": "loading",
+"start": 59.119,
+"dur": 2.648,
+"who": "XP",
+"text": "Loading project. Loading. Loading...",
+"env": "03675424533114776224664100121000000001348643215652110000000000449643312885221000"
+},
+{
+"t": "sfx",
+"id": "xp_crash",
+"start": 61.887,
+"dur": 2.0,
+"name": "crash"
+},
+{
+"t": "line",
+"id": "illegal",
+"start": 63.587,
+"dur": 2.896,
+"who": "XP",
+"text": "This challenge has performed an illegal operation.",
+"env": "036766654332211100265232034986474223751014401136433274264324431365675016878633234431100"
+},
+{
+"t": "sfx",
+"id": "self_tip",
+"start": 66.603,
+"dur": 1.2,
+"name": "chaching"
+},
+{
+"t": "line",
+"id": "tip_self",
+"start": 66.603,
+"dur": 2.711,
+"who": "CREDIT",
+"text": "If I tip myself... infinite likes!",
+"env": "0000000011111000121002100011000011100000000015665540057567541238997553001222222100"
+},
+{
+"t": "sfx",
+"id": "times_up",
+"start": 69.634,
+"dur": 1.48,
+"name": "ding"
+},
+{
+"t": "line",
+"id": "results",
+"start": 70.892,
+"dur": 1.781,
+"who": "HOST",
+"text": "Time's up! Let's see those likes!",
+"env": "012554543665300000004731233597686422366411011110000000"
+},
+{
+"t": "sfx",
+"id": "count",
+"start": 72.793,
+"dur": 3.0,
+"name": "counter"
+},
+{
+"t": "line",
+"id": "duck_wins",
+"start": 75.343,
+"dur": 3.18,
+"who": "HOST",
+"text": "Duck wins, with fourteen hundred and ninety two likes!",
+"env": "029841112378666765523268222101488510335554216755458747543333466544354313355555466554420002322112"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 78.643,
+"dur": 2.48,
+"name": "cheer"
+},
+{
+"t": "line",
+"id": "explained",
+"start": 78.643,
+"dur": 2.662,
+"who": "DUCK",
+"text": "This victory... is explained by ducks.",
+"env": "01236974342452011223333210000000008443133203665543322110364543114431000122110001"
+},
+{
+"t": "line",
+"id": "bankrupt",
+"start": 81.425,
+"dur": 3.908,
+"who": "HOST",
+"text": "Credit, you bought ten thousand likes with yourself. You're bankrupt!",
+"env": "0123885222002100000000046536975210022234331167654333444454431321301122224233221110000000000147863248665311222200011100"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 85.453,
+"dur": 2.48,
+"name": "sad"
+},
+{
+"t": "line",
+"id": "zero",
+"start": 85.453,
+"dur": 2.18,
+"who": "CREDIT",
+"text": "I'm worth... zero?",
+"env": "012221100000000357887667889653000000000000012233335433247866763012"
+},
+{
+"t": "line",
+"id": "elim",
+"start": 88.053,
+"dur": 4.048,
+"who": "HOST",
+"text": "Credit and XP, you're up for elimination. And leaving us is...",
+"env": "01128867321245111201576543200000000012345961111477446354554323211110000000012564434666366445663222015655432221111111111100"
+},
+{
+"t": "sfx",
+"id": "roll",
+"start": 92.221,
+"dur": 4.48,
+"name": "drumroll"
+},
+{
+"t": "line",
+"id": "credit_out",
+"start": 96.029,
+"dur": 0.366,
+"who": "HOST",
+"text": "Credit!",
+"env": "02298868520"
+},
+{
+"t": "line",
+"id": "nooo",
+"start": 96.515,
+"dur": 3.654,
+"who": "CREDIT",
+"text": "Wait, wait, I can refund! I can refuuund!",
+"env": "00034565410011466531002787301241221345420045443211110000000067887642112244232111344555300003899987776522111122"
+},
+{
+"t": "sfx",
+"id": "launch",
+"start": 100.289,
+"dur": 3.0,
+"name": "launch"
+},
+{
+"t": "line",
+"id": "spent",
+"start": 102.839,
+"dur": 1.848,
+"who": "CURSOR",
+"text": "Spent.",
+"env": "11121275234411101111111000000001244310398865421222100000"
+},
+{
+"t": "sfx",
+"id": null,
+"start": 104.807,
+"dur": 2.0,
+"name": "laugh"
+},
+{
+"t": "line",
+"id": "next_time",
+"start": 105.407,
+"dur": 4.327,
+"who": "HOST",
+"text": "Next time on Battle for Hot Feed: the AI adds whatever you comment!",
+"env": "0256961144235322121101564430777476113532455211113321222100000000132567667887777775544566765432223222367578836865796134776443222112"
+},
+{
+"t": "line",
+"id": "comment",
+"start": 109.854,
+"dur": 1.353,
+"who": "ONE",
+"text": "Comment below!",
+"env": "22379877687521057633566665433321000000001"
+},
+{
+"t": "line",
+"id": "restart",
+"start": 111.328,
+"dur": 1.932,
+"who": "XP",
+"text": "Please restart your computer.",
+"env": "0334432333222553222222978841388367521134431276431000000002"
+},
+{
+"t": "sfx",
+"id": "end",
+"start": 113.379,
+"dur": 4.48,
+"name": "sting"
+}
+]
+}
